@@ -1,3 +1,5 @@
+#! /usr/bin/env python
+
 # A script to extract the datamode, start time and end time of all .FITS files in a folder and save
 # this data to a .txt file.
 
